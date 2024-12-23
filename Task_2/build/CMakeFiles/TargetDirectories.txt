@@ -1,0 +1,3 @@
+/home/birulya-zhenka/Documents/453501/ОАиП/LB8/Task_2/build/CMakeFiles/Make_for_LB8.dir
+/home/birulya-zhenka/Documents/453501/ОАиП/LB8/Task_2/build/CMakeFiles/edit_cache.dir
+/home/birulya-zhenka/Documents/453501/ОАиП/LB8/Task_2/build/CMakeFiles/rebuild_cache.dir

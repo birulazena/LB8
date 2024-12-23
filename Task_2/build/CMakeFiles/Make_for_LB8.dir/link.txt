@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/Make_for_LB8.dir/Task_2.cpp.o CMakeFiles/Make_for_LB8.dir/func_1_2.cpp.o CMakeFiles/Make_for_LB8.dir/func_2_2.cpp.o -o Make_for_LB8 

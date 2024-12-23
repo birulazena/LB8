@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/birulya-zhenka/Documents/453501/ОАиП/LB8/Task_1/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/Make_for_LB8.dir/Task.cpp.o -c /home/birulya-zhenka/Documents/453501/ОАиП/LB8/Task_1/Task.cpp",
+  "file": "/home/birulya-zhenka/Documents/453501/ОАиП/LB8/Task_1/Task.cpp",
+  "output": "CMakeFiles/Make_for_LB8.dir/Task.cpp.o"
+},
+{
+  "directory": "/home/birulya-zhenka/Documents/453501/ОАиП/LB8/Task_1/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/Make_for_LB8.dir/func_1.cpp.o -c /home/birulya-zhenka/Documents/453501/ОАиП/LB8/Task_1/func_1.cpp",
+  "file": "/home/birulya-zhenka/Documents/453501/ОАиП/LB8/Task_1/func_1.cpp",
+  "output": "CMakeFiles/Make_for_LB8.dir/func_1.cpp.o"
+},
+{
+  "directory": "/home/birulya-zhenka/Documents/453501/ОАиП/LB8/Task_1/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/Make_for_LB8.dir/func_2.cpp.o -c /home/birulya-zhenka/Documents/453501/ОАиП/LB8/Task_1/func_2.cpp",
+  "file": "/home/birulya-zhenka/Documents/453501/ОАиП/LB8/Task_1/func_2.cpp",
+  "output": "CMakeFiles/Make_for_LB8.dir/func_2.cpp.o"
+}
+]
